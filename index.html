@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>API Tester</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <div class="container">
+    <h1>API Console</h1>
+
+    <div class="request-section">
+      <select id="method">
+        <option>GET</option>
+        <option>POST</option>
+      </select>
+
+      <input 
+        type="text" 
+        id="url" 
+        placeholder="Enter API URL..."
+      />
+
+      <button id="sendBtn">Send</button>
+    </div>
+
+    <textarea 
+      id="body" 
+      placeholder="JSON Body (for POST requests)"
+    ></textarea>
+
+    <div id="status"></div>
+
+    <div class="history-section">
+        <h3>History</h3>
+        <ul id="history"></ul>
+    </div>
+
+    <div class="response-section">
+        <div class="response-header">
+            <h3>Response</h3>
+            <button id="copyBtn">Copy</button>
+        </div>
+      <pre id="response"></pre>
+    </div>
+  </div>
+
+  <footer class="footer">
+    <p>© Pragya Verma</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
