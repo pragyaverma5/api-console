@@ -69,8 +69,4 @@ I gradually enhanced the tool by adding request history, improving UI clarity, a
 - Save named requests (like collections)
 - Add backend proxy to bypass CORS limitations
 
----
 
-## Author
-
-Pragya Verma
