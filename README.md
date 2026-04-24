@@ -11,6 +11,15 @@ https://apiconsole-pv.netlify.app/
 
 ---
 
+##🖥️ Preview
+
+<img width="1919" height="1048" alt="image" src="https://github.com/user-attachments/assets/08f8095a-8571-4a42-a97f-301207260ed6" />
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/b735dea0-6af5-4557-b1d0-45bdf801c259" />
+
+---
+
+
 ## Tech Stack
 - HTML
 - CSS
