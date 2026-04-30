@@ -1,6 +1,6 @@
 # API Console
 
-A minimal and clean API testing tool built with JavaScript.
+A clean API testing tool built with JavaScript.
 
 Designed with a monochrome interface focused on clarity, usability, and developer experience.
 
