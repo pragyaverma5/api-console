@@ -63,15 +63,6 @@ I gradually enhanced the tool by adding request history, improving UI clarity, a
 
 ---
 
-## Challenges
-
-- Handling failed API requests gracefully
-- Designing a clean UI without relying on frameworks
-- Managing persistent history without a backend
-- Understanding real-world API limitations (CORS)
-
----
-
 ## Future Improvements
 
 - Add support for custom headers
