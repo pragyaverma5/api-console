@@ -52,17 +52,6 @@ I gradually enhanced the tool by adding request history, improving UI clarity, a
 
 ---
 
-## What I Learned
-
-- How the Fetch API works with async/await
-- Handling API responses and parsing JSON data
-- Understanding CORS and why some requests fail
-- Managing state using localStorage
-- Improving UI/UX with minimal design principles
-- Thinking in terms of user experience, not just functionality
-
----
-
 ## Future Improvements
 
 - Add support for custom headers
