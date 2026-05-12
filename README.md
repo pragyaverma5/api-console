@@ -40,18 +40,6 @@ https://apiconsole-pv.netlify.app/
 
 ---
 
-## The Process
-
-This project was built to understand how APIs work beyond just consuming them.
-
-I started with a simple UI to send requests and display responses. Then I focused on handling real-world scenarios like asynchronous operations, error handling, and response formatting.
-
-One key challenge was dealing with APIs that block browser requests due to CORS. Instead of ignoring it, I implemented clear error messaging to reflect real-world behavior and limitations.
-
-I gradually enhanced the tool by adding request history, improving UI clarity, and refining user interactions to make it feel like a usable developer tool rather than a basic project.
-
----
-
 ## Future Improvements
 
 - Add support for custom headers
